@@ -200,16 +200,17 @@ The output `ID` comes from the input test column `id`. Each row corresponds to a
 
 ### Visualizations
 
-- Class distribution bar and pie charts.
+- ##Class distribution bar and pie charts.
   <img width="389" height="409" alt="image" src="https://github.com/user-attachments/assets/340d6e36-f303-49cd-81f3-ff45e6fbe893" />
-- Spam and non-spam word clouds.
+  
+- ##Spam and non-spam word clouds.
   <img width="819" height="819" alt="image" src="https://github.com/user-attachments/assets/ef6ba615-670e-499c-8372-c99d6e6b9c29" />
   <img width="819" height="819" alt="image" src="https://github.com/user-attachments/assets/de42489a-c6cf-4812-8dba-39844b3e4956" />
-- Top-20 word frequency chart.
+- ##Top-20 word frequency chart.
   <img width="1058" height="552" alt="image" src="https://github.com/user-attachments/assets/7b45c3b5-1d72-4c3b-89ac-c70fc1dd4d3d" />
-- Spam precision comparison across five models.
+- ##Spam precision comparison across five models.
   <img width="984" height="583" alt="image" src="https://github.com/user-attachments/assets/268aaca9-0d28-4251-8fa2-6760e12adc87" />
-- MiniBatchKMeans confusion matrix.
+- ##MiniBatchKMeans confusion matrix.
   <img width="567" height="384" alt="image" src="https://github.com/user-attachments/assets/31e5cd55-9aed-4734-ad22-b067a43c0099" />
 
 
